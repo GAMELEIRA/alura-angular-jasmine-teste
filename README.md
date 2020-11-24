@@ -1,2 +1,2 @@
-# alura-angular-jasmine-teste
-Este repositório têm como objetivo ser um guia para estudos de testes em angular usando Jasmine. 
+# alura_testes_angular
+Repositório do Curso de Testes Unitários no Angular
